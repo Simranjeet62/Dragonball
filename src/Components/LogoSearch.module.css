@@ -1,0 +1,39 @@
+.image {
+  width: 30rem;
+}
+
+.container {
+  display: flex;
+  background-color: antiquewhite;
+  gap: 5rem;
+  justify-content: space-between;
+}
+
+.logoText {
+  font-size: 1.8rem;
+}
+
+form {
+  font-size: 3rem;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 2rem;
+  border-radius: 0.5rem;
+  background: none;
+}
+
+/* input::placeholder {
+  font-size: 1.8rem;
+} */
+
+.btn {
+  font-size: 2rem;
+  border-radius: 0.5rem;
+  background: none;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+}
